@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    background:url(img/about.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    
+}
+.main{
+    color:blue;
+    padding: 10px;
+}
+.content{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10%;
+    color:black;
+}
+.pre{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1%;
+    color:black;
+}
+.menu{
+    width: 600px;
+    float: right;
+    
+}
+ul{
+    list-style: none;
+    float: left;
+    display: flex;
+    
+    
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 25px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+
+}
+
+ul li a:hover{
+    color: blue;
+}
+.img {
+    margin: 1%;
+    padding-left: 40%;
+    
+}
+.dropdown{
+    margin-left: 70px;
+    font-style: italic;
+    color: black;
+    
+}

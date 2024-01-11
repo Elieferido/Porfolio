@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    background:url(img/contact.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    
+}
+.main{
+    color: blue;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-right: 30px;
+    
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 25px;
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+    font-family: arial;
+    font-weight: bold;
+
+}
+
+ul li a:hover{
+    color: blue;
+}
+.content{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 45px;
+    padding: 18px;
+}
+.par{
+font-size: 60px;
+text-align: center;
+margin-right: -3%;
+
+}
+.par2{
+font-size: 55px;
+text-align: center;
+margin-right: 13%;
+}
+.par3{
+    font-size: 55px;
+    text-align: center;
+    margin-right: 14%;
+}
